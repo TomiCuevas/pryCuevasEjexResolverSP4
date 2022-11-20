@@ -1,0 +1,11 @@
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS POR RESOLVER\pryCuevasEjxResolverSP4\pryCuevasEjxResolverSP4\bin\Debug\pryCuevasEjxResolverSP4.exe.config
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS POR RESOLVER\pryCuevasEjxResolverSP4\pryCuevasEjxResolverSP4\bin\Debug\pryCuevasEjxResolverSP4.exe
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS POR RESOLVER\pryCuevasEjxResolverSP4\pryCuevasEjxResolverSP4\bin\Debug\pryCuevasEjxResolverSP4.pdb
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS POR RESOLVER\pryCuevasEjxResolverSP4\pryCuevasEjxResolverSP4\obj\Debug\pryCuevasEjxResolverSP4.csproj.AssemblyReference.cache
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS POR RESOLVER\pryCuevasEjxResolverSP4\pryCuevasEjxResolverSP4\obj\Debug\pryCuevasEjxResolverSP4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS POR RESOLVER\pryCuevasEjxResolverSP4\pryCuevasEjxResolverSP4\obj\Debug\pryCuevasEjxResolverSP4.frmVentasDiarias.resources
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS POR RESOLVER\pryCuevasEjxResolverSP4\pryCuevasEjxResolverSP4\obj\Debug\pryCuevasEjxResolverSP4.Properties.Resources.resources
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS POR RESOLVER\pryCuevasEjxResolverSP4\pryCuevasEjxResolverSP4\obj\Debug\pryCuevasEjxResolverSP4.csproj.GenerateResource.cache
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS POR RESOLVER\pryCuevasEjxResolverSP4\pryCuevasEjxResolverSP4\obj\Debug\pryCuevasEjxResolverSP4.csproj.CoreCompileInputs.cache
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS POR RESOLVER\pryCuevasEjxResolverSP4\pryCuevasEjxResolverSP4\obj\Debug\pryCuevasEjxResolverSP4.exe
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS POR RESOLVER\pryCuevasEjxResolverSP4\pryCuevasEjxResolverSP4\obj\Debug\pryCuevasEjxResolverSP4.pdb
